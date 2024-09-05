@@ -104,3 +104,7 @@ p {
   color:#F8F4EC;
   
 }
+
+.hidden {
+	display:none;
+}
